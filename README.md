@@ -1,0 +1,2 @@
+# Advance-Face-Recognition-Student-Attendance-System-Project
+ Advance Face Recognition Student Attendance System Project in Python OpenCV With Tkinter GUI & SQLite Database. Features of Project: real time face detection 1] Home Page i) Student management system (Save, Take Photo Samples, Update, Delete, Clear) ii) Train Photo Samples iii) Take Attendance with Face Detection iv) Attendance Report (Excel file & SQLite database) v) Developer Page vi) Help Desk.
